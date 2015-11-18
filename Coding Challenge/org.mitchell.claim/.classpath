@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/webapp/WEB-INF/lib"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/sqltool.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/hibernate-release-5.0.2.Final/lib/required/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/hibernate-release-5.0.2.Final/lib/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/hibernate-release-5.0.2.Final/lib/required/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/hibernate-release-5.0.2.Final/lib/required/hibernate-commons-annotations-5.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/hibernate-release-5.0.2.Final/lib/required/hibernate-core-5.0.2.Final.jar" sourcepath="C:/Users/Shalima/.m2/repository/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/hibernate-release-5.0.2.Final/lib/required/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/hibernate-release-5.0.2.Final/lib/required/jandex-1.2.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/hibernate-release-5.0.2.Final/lib/required/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/hibernate-release-5.0.2.Final/lib/required/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/hibernate-release-5.0.2.Final/lib/jpa/hibernate-entitymanager-5.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/hibernate-release-5.0.2.Final/lib/java8/hibernate-java8-5.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/hibernate-release-5.0.2.Final/lib/jpa-metamodel-generator/hibernate-jpamodelgen-5.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.springframework.context_4.2.0.20150804-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.springframework.data.core_1.9.1.20150106-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.springframework.aop_4.2.0.20150804-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.springframework.web.servlet_4.2.0.20150804-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.springframework.transaction_4.2.0.20150804-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.springframework.roo.wrapping.bcprov-jdk15_1.45.0.0001.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.springframework.web_4.2.0.20150804-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.springframework.orm_4.2.0.20150804-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.springframework.oxm_4.2.0.20150804-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.springframework.jms_4.2.0.20150804-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.springframework.jdbc_4.2.0.20150804-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.springframework.core_4.2.0.20150804-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.springframework.expression_4.2.0.20150804-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.springframework.context.support_4.2.0.20150804-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.springframework.beans_4.2.0.20150804-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.apache.commons.dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/commons-dbcp2-2.1.1-bin/commons-dbcp2-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/commons-pool2-2.4.2-bin/commons-pool2-2.4.2/commons-pool2-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/commons-pool2-2.4.2-bin/commons-pool2-2.4.2/commons-pool2-2.4.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.apache.commons.pool_1.6.0.v201204271246.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.apache.log4j_1.2.15.v201012070815.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/jaxrs-ri/lib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/jaxrs-ri/lib/jersey-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/jaxrs-ri/lib/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/jaxrs-ri/lib/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/jaxrs-ri/lib/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/jaxrs-ri/lib/jersey-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/jaxrs-ri/api/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/javax.ws.rs_2.0.1.v201504171603.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/jersey-bundle-1.8.jar/jersey-bundle-1.8.jar" sourcepath="C:/Users/Shalima/.m2/repository/com/sun/jersey/jersey-bundle/1.8/jersey-bundle-1.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Downloads/mockito-1.9.5/mockito-all-1.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Coding_Challenge/eclipse/plugins/org.eclipse.jdt.apt.core_3.4.0.v20150518-1201.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shalima/Desktop/Mitchell_Claims-master/MitchellClaims_WebServices/WebContent/WEB-INF/lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
